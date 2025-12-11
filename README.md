@@ -9,12 +9,13 @@ VS Code / Notepad++
 Excel / Google Sheets
 Sample authentication log dataset
 Markdown & PDF reporting
-**
-**Project Structure ****
+
+**Project Structure **
 **logs/          → Raw log files (CSV, JSON)
 analysis/      → Investigation notes & methodology
 report/        → Final incident report (PDF)
-**
+
+
 **🔍 Skills Demonstrated**
 Log parsing & filtering
 Identifying Indicators of Compromise (IOCs)
@@ -23,13 +24,16 @@ Threat detection mindset
 Analytical writing (incident reporting)
 Basic security investigation techniques
 
+
 **📈 Preliminary Findings Overview**
 (This will be updated once the analysis is complete.)
 Multiple failed login attempts detected
 Successful login following repeated failures
 Logins from unusual geographic locations
 Suspicious timestamps outside normal user hours
-**
+
+
+
 📄 Final Deliverables**
 Incident Report (PDF) — located in the report/ folder
 Analysis Notes (Markdown) — located in the analysis/ folder
