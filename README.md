@@ -1,4 +1,7 @@
 # 📌 Project 1 — Log Analysis & Incident Report
+- **[Incident Report (PDF/MD)](report/incident-report.md)**
+- **[Analysis Notes](analysis/notes.md)**
+
 
 ## 📝 Purpose  
 This project analyzes authentication logs to identify suspicious activity such as failed login patterns, brute-force attempts, unusual IP addresses, and potential account compromise.  
