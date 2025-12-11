@@ -1,42 +1,52 @@
-**📌 Project 1 — Log Analysis & Incident Report**
+# 📌 Project 1 — Log Analysis & Incident Report
 
-**Purpose:**
-This project analyzes authentication logs to identify suspicious activity such as failed login patterns, brute-force attempts, unusual IP addresses, and potential account compromise.
+## 📝 Purpose  
+This project analyzes authentication logs to identify suspicious activity such as failed login patterns, brute-force attempts, unusual IP addresses, and potential account compromise.  
 It concludes with a professional incident report summarizing findings and recommendations.
 
-🛠 **Tools Used**
-VS Code / Notepad++
-Excel / Google Sheets
-Sample authentication log dataset
-Markdown & PDF reporting
+---
 
-**Project Structure **
-**logs/          → Raw log files (CSV, JSON)
-analysis/      → Investigation notes & methodology
-report/        → Final incident report (PDF)
+## 🛠 Tools Used  
+- VS Code / Notepad++  
+- Excel / Google Sheets  
+- Sample authentication log dataset  
+- Markdown & PDF reporting  
 
+---
 
-**🔍 Skills Demonstrated**
-Log parsing & filtering
-Identifying Indicators of Compromise (IOCs)
-Event timeline creation
-Threat detection mindset
-Analytical writing (incident reporting)
-Basic security investigation techniques
+## 📂 Project Structure  
+logs/ → Raw log files (CSV, JSON)
+analysis/ → Investigation notes & methodology
+report/ → Final incident report (PDF)
 
 
-**📈 Preliminary Findings Overview**
-(This will be updated once the analysis is complete.)
-Multiple failed login attempts detected
-Successful login following repeated failures
-Logins from unusual geographic locations
-Suspicious timestamps outside normal user hours
+---
 
+## 🔍 Skills Demonstrated  
+- Log parsing & filtering  
+- Identifying Indicators of Compromise (IOCs)  
+- Event timeline creation  
+- Threat detection mindset  
+- Analytical writing (incident reporting)  
+- Basic security investigation techniques  
 
+---
 
-📄 Final Deliverables**
-Incident Report (PDF) — located in the report/ folder
-Analysis Notes (Markdown) — located in the analysis/ folder
+## 📈 Preliminary Findings Overview  
+*(This will be updated once the analysis is complete.)*
 
-**📬 Contact**
-Feel free to reach out via LinkedIn to discuss this project or collaborate.
+- Multiple failed login attempts detected  
+- Successful login following repeated failures  
+- Logins from unusual geographic locations  
+- Suspicious timestamps outside normal user hours  
+
+---
+
+## 📄 Final Deliverables  
+- **Incident Report (PDF)** — located in the `report/` folder  
+- **Analysis Notes (Markdown)** — located in the `analysis/` folder  
+
+---
+
+## 📬 Contact  
+Feel free to reach out via LinkedIn to discuss this project or collaborate.  
