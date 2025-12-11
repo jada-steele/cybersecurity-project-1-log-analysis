@@ -1,0 +1,76 @@
+timestamp,username,source_ip,status,event_type,location
+2025-11-20 08:03:12,j.smith,192.168.1.23,Success,Login,US-NC
+2025-11-20 08:04:55,j.smith,192.168.1.23,Success,Login,US-NC
+2025-11-20 09:14:22,k.jones,192.168.1.45,Success,Login,US-NC
+2025-11-20 10:32:19,a.martin,10.0.0.12,Success,Login,US-NC
+2025-11-20 11:47:33,k.jones,192.168.1.45,Success,Login,US-NC
+
+2025-11-20 12:05:44,j.smith,185.244.23.17,Failed,Login,RU
+2025-11-20 12:05:59,j.smith,185.244.23.17,Failed,Login,RU
+2025-11-20 12:06:15,j.smith,185.244.23.17,Failed,Login,RU
+2025-11-20 12:06:30,j.smith,185.244.23.17,Failed,Login,RU
+2025-11-20 12:06:51,j.smith,185.244.23.17,Failed,Login,RU
+
+2025-11-20 12:07:10,j.smith,185.244.23.17,Success,Login,RU
+
+2025-11-20 13:12:02,m.garcia,172.16.4.55,Success,Login,US-TX
+2025-11-20 13:25:48,m.garcia,172.16.4.55,Success,Login,US-TX
+2025-11-20 13:37:19,m.garcia,172.16.4.55,Success,Login,US-TX
+
+2025-11-20 14:10:11,admin,77.91.68.22,Failed,Login,DE
+2025-11-20 14:10:25,admin,77.91.68.22,Failed,Login,DE
+2025-11-20 14:10:41,admin,77.91.68.22,Failed,Login,DE
+2025-11-20 14:11:00,admin,77.91.68.22,Failed,Login,DE
+2025-11-20 14:11:14,admin,77.91.68.22,Failed,Login,DE
+2025-11-20 14:11:29,admin,77.91.68.22,Failed,Login,DE
+2025-11-20 14:11:44,admin,77.91.68.22,Failed,Login,DE
+
+2025-11-20 14:55:28,k.jones,192.168.1.45,Success,Privilege Escalation,US-NC
+
+2025-11-20 15:04:55,a.martin,10.0.0.12,Failed,Login,US-NC
+2025-11-20 15:05:12,a.martin,10.0.0.12,Failed,Login,US-NC
+2025-11-20 15:05:28,a.martin,10.0.0.12,Success,Login,US-NC
+
+2025-11-20 15:33:47,guest,34.229.17.200,Failed,Login,US-VA
+2025-11-20 15:33:58,guest,34.229.17.200,Failed,Login,US-VA
+2025-11-20 15:34:09,guest,34.229.17.200,Failed,Login,US-VA
+
+2025-11-20 16:11:20,j.smith,192.168.1.23,Success,Logout,US-NC
+2025-11-20 16:52:33,m.garcia,172.16.4.55,Success,Logout,US-TX
+
+2025-11-20 17:03:14,k.jones,192.168.1.45,Success,Login,US-NC
+2025-11-20 17:14:28,k.jones,192.168.1.45,Success,Logout,US-NC
+
+2025-11-20 18:02:44,admin,203.0.113.55,Failed,Login,BR
+2025-11-20 18:02:59,admin,203.0.113.55,Failed,Login,BR
+2025-11-20 18:03:13,admin,203.0.113.55,Failed,Login,BR
+
+2025-11-20 19:11:07,m.garcia,172.16.4.55,Success,Login,US-TX
+2025-11-20 19:20:55,m.garcia,172.16.4.55,Success,Logout,US-TX
+
+2025-11-20 22:04:55,a.martin,10.0.0.12,Success,Login,US-NC
+2025-11-20 22:33:18,a.martin,10.0.0.12,Success,Logout,US-NC
+
+2025-11-21 00:44:22,j.smith,102.133.98.200,Failed,Login,ZA
+2025-11-21 00:44:39,j.smith,102.133.98.200,Failed,Login,ZA
+2025-11-21 00:44:55,j.smith,102.133.98.200,Failed,Login,ZA
+
+2025-11-21 01:12:14,admin,185.244.23.17,Failed,Login,RU
+2025-11-21 01:12:30,admin,185.244.23.17,Failed,Login,RU
+2025-11-21 01:12:47,admin,185.244.23.17,Failed,Login,RU
+2025-11-21 01:13:00,admin,185.244.23.17,Success,Login,RU
+
+2025-11-21 03:03:43,j.smith,185.244.23.17,Success,Login,RU
+
+2025-11-21 03:04:55,j.smith,185.244.23.17,Success,Privilege Escalation,RU
+
+2025-11-21 03:05:12,j.smith,185.244.23.17,Success,Logout,RU
+
+2025-11-21 06:32:15,j.smith,192.168.1.23,Failed,Login,US-NC
+2025-11-21 06:32:40,j.smith,192.168.1.23,Success,Login,US-NC
+
+2025-11-21 08:14:44,a.martin,10.0.0.12,Success,Login,US-NC
+2025-11-21 08:35:22,a.martin,10.0.0.12,Success,Logout,US-NC
+
+2025-11-21 09:25:33,m.garcia,172.16.4.55,Success,Login,US-TX
+2025-11-21 09:48:12,m.garcia,172.16.4.55,Success,Logout,US-TX
